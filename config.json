@@ -1,0 +1,23 @@
+{
+    "url": "https://www.baidu.com?brd=brorgtest",
+    "br": {
+        "ref": 1,
+        "vpn": 1,
+        "out": 0
+    },
+    "id": {
+        "ref": 0,
+        "vpn": 0,
+        "out": 0
+    },
+    "pid": {
+        "ref": 0,
+        "vpn": 0,
+        "out": 0
+    },
+    "pbr": {
+        "ref": 0,
+        "vpn": 0,
+        "out": 0
+    }
+}
